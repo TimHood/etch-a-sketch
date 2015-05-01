@@ -1,0 +1,23 @@
+body {
+	background-color: lavender;
+}
+
+#container {
+	height: 960px;
+	width: 960px;
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+#button {
+	width: 960px;
+	margin: 20px auto;
+}
+
+.col {
+	background-color: white;
+}
+
+.highlighted {
+	background-color: red;
+}
